@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,SAAU;EACR,UAAU,ECHI,OAAO;EDIrB,WAAW,EEJN,OAAO;EFOZ,WAAE;IACA,KAAK,EAAE,IAAI;EAIT,kCAAgB;IGTpB,OAAO,EAAE,KAAK;IACd,KAAK,EHSqB,KAAK;IGR/B,MAAM,EAAE,IAAI;IACZ,OAAO,EAAE,QAAQ;IACjB,SAAS,EAAE,IAAI;IACf,WAAW,EAAE,GAAG;IAChB,KAAK,EAAE,IAAI;IACX,gBAAgB,EHGiB,KAAK;IGFtC,MAAM,EAAE,cAAc;IACtB,qBAAqB,EAAE,cAAc;IACrC,kBAAkB,EAAE,cAAc;IAClC,aAAa,EAAE,cAAc;EHCzB,mCAAiB;IGGrB,KAAK,EAAE,IAAI",
+"sources": ["pages/homepage.scss","modules/color.scss","modules/value.scss","partials/input.scss"],
+"names": [],
+"file": "main.css"
+}

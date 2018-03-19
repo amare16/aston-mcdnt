@@ -1,0 +1,22 @@
+#homepage {
+  background: skyblue;
+  font-family: fantasy; }
+  #homepage p {
+    color: pink; }
+  #homepage form input:nth-child(2n) {
+    display: block;
+    width: 100px;
+    height: 20px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.4;
+    color: #555;
+    background-color: green;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important; }
+  #homepage form input[type="submit"] {
+    color: blue; }
+
+/*# sourceMappingURL=main.css.map */
